@@ -1,4 +1,14 @@
 h1{
     text-align: center;
-    color:red;
+    color:#103350;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: auto;
+    border-radius: 1px;
+}
+form{
+    text-align: center;
 }
