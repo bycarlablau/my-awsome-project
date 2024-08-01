@@ -4,14 +4,12 @@ h1{
 }
 img{
     display: block;
-    margin: auto;
-    width: 40%;
-    height: auto;
-    border-radius: 1px;
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 8px;
 }
 form{
-   text-align: center;
-    padding: 1em;
-    box-sizing: border-box;
-
+    display: block;
+    margin: 0 auto;
+    text-align: center;
 }
